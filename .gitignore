@@ -17,6 +17,9 @@ env/
 .env
 .env.*
 
+# Dataset (large, download via notebook)
+data/
+
 # macOS
 .DS_Store
 

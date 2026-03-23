@@ -1,3 +1,6 @@
 anthropic
 jupyter
 matplotlib
+torch
+torchvision
+tqdm
