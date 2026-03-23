@@ -8,6 +8,7 @@ Created by Jean Malha (assisted by Claude Code)
 | # | Notebook | Topics |
 |---|---|---|
 | 01 | [What is AI?](01-what-is-ai.ipynb) | Definition, transistors, logic gates, coded logic, symbolic AI, deep learning, perceptrons |
+| 02 | [Types of Training](02-types-of-training.ipynb) | Activation functions, linear regression, loss functions, metrics, supervised/unsupervised/RL |
 
 ## Setup
 
