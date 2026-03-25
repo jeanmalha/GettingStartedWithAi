@@ -5,3 +5,4 @@ torch
 torchvision
 tqdm
 scikit-learn
+transformers
