@@ -10,6 +10,7 @@ Created by Jean Malha (assisted by Claude Code)
 | 01 | [What is AI?](01-what-is-ai.ipynb) | Definition, transistors, logic gates, coded logic, symbolic AI, deep learning, perceptrons |
 | 02 | [Types of Training](02-types-of-training.ipynb) | Activation functions, linear regression, loss functions, metrics, supervised/unsupervised/RL |
 | 03 | [Use Cases — Computer Vision](03-use-cases-cv.ipynb) | Computer Vision, transfer learning, ResNet-18 husky classifier (Stanford Dogs dataset) |
+| 04 | [Use Cases — NLP](04-use-cases-nlp.ipynb) | Sentiment analysis with pretrained DistilBERT, Gen Alpha speech classifier |
 
 ## Setup
 
